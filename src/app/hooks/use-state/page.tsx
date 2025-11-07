@@ -1,3 +1,3 @@
-import { UseStatePage } from './use-state';
+import UseStatePage from './use-state';
 
 export default UseStatePage;
