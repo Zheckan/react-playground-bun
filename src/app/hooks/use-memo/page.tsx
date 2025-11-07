@@ -1,3 +1,3 @@
-import UseMemoPage from "./use-memo";
+import UseMemoPage from './use-memo';
 
 export default UseMemoPage;

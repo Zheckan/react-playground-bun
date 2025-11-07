@@ -22,7 +22,7 @@ export default function UseEffectPage() {
         type="button"
         onClick={() => setIsCount(!isCount)}
         className="bg-blue-500 text-white px-4 py-2 rounded-md cursor-pointer"
-        >
+      >
         Start Counting
       </button>
     </div>

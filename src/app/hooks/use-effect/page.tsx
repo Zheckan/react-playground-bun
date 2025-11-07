@@ -1,3 +1,3 @@
-import UseEffectPage from "./use-effect";
+import UseEffectPage from './use-effect';
 
 export default UseEffectPage;

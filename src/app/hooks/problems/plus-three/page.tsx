@@ -1,4 +1,4 @@
-import PlusThree from "./plus-three";
+import PlusThree from './plus-three';
 
 export default function PlusThreePage() {
   return (
